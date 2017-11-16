@@ -1,0 +1,1 @@
+# device_j3xnlte_property_blobs
